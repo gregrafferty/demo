@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": 1, "firstName": "Antoine", lastName: 'Macdonald', age: 31 },
-    { "id": 2, "firstName": "Patrick", lastName: 'Peterson', age: 17 },
-    { "id": 3, "firstName": "Sally", lastName: 'Shielding', age: 26 }
+    { "id": 1, "firstName": "Antoine", "lastName": "Macdonald", age: 31 },
+    { "id": 2, "firstName": "Patrick", "lastName": "Peterson", age: 17 },
+    { "id": 3, "firstName": "Sally", "lastName": "Shielding", age: 26 }
   ],
 }
